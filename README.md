@@ -34,11 +34,11 @@ backend or AI engineer roles.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeCatalystHade&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCatalystHade&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeCatalystHadeed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCatalystHadeed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeCatalystHade&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=CodeCatalystHadeed&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- FOOTER WAVE -->
