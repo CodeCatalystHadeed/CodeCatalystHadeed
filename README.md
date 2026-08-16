@@ -133,21 +133,17 @@ I’m working toward building reliable AI applications that combine **LLMs, APIs
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/CodeCatalystHadeed">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <a href="https://github.com/CodeCatalystHadeed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-hadeed-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-hadeed-ai" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:dev.hadeed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-    <img src="https://img.shields.io/badge/GitHub-CodeCatalystHadeed-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:dev.hadeed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.hadeed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
   </a>
 </p>
 
