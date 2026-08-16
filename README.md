@@ -122,9 +122,9 @@ Agentic AI
 ```text
 Backend Engineering + Applied AI
                 ↓
-      LLM Applications
+        LLM Applications
                 ↓
-        Agentic AI Systems
+       Agentic AI Systems
 ```
 
 I’m working toward building reliable AI applications that combine **LLMs, APIs, databases, backend systems, and intelligent automation**.
