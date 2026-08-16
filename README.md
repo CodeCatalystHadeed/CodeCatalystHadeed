@@ -135,6 +135,15 @@ I’m working toward building reliable AI applications that combine **LLMs, APIs
 
 <p align="left">
   <a href="https://github.com/CodeCatalystHadeed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hadeed-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.hadeed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
     <img src="https://img.shields.io/badge/GitHub-CodeCatalystHadeed-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:dev.hadeed@gmail.com">
