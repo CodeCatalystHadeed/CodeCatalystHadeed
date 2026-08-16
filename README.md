@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/muhammad-hadeed-banner.svg" width="100%" alt="Muhammad Hadeed - Software Engineer | Backend | Applied AI" />
+</p>
+
 # Hi, I'm Muhammad Hadeed 👋
 
 ### Software Engineer | Python Backend | Applied AI
