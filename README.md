@@ -6,11 +6,6 @@
 
 ### Software Engineer | Python Backend | Applied AI
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=CodeCatalystHadeed&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad Hadeed" />
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/CodeCatalystHadeed?label=Stars&style=flat">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
