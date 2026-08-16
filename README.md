@@ -134,17 +134,9 @@ I’m working toward building reliable AI applications that combine **LLMs, APIs
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CodeCatalystHadeed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-hadeed-ai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dev.hadeed@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
-  </a>
+  <a href="https://github.com/CodeCatalystHadeed"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-hadeed-ai"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dev.hadeed@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"></a>
 </p>
 
 ---
